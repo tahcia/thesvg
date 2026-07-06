@@ -84982,6 +84982,28 @@
     "collection": "brands"
   },
   {
+    "slug": "nasdaq",
+    "title": "Nasdaq",
+    "aliases": [
+      "NASDAQ",
+      "Nasdaq Data Link"
+    ],
+    "hex": "0996C7",
+    "categories": [
+      "Finance",
+      "Analytics"
+    ],
+    "variants": {
+      "default": "/icons/nasdaq/default.svg",
+      "mono": "/icons/nasdaq/mono.svg"
+    },
+    "license": "brand-use",
+    "url": "https://commons.wikimedia.org/wiki/File:NASDAQ_Logo.svg",
+    "guidelines": "https://www.nasdaq.com",
+    "dateAdded": "2026-07-06",
+    "collection": "brands"
+  },
+  {
     "slug": "nasm",
     "title": "NASM",
     "aliases": [],
